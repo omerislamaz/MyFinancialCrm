@@ -42,9 +42,8 @@ gibi bilgilerini **Ayarlar** ekranı üzerinden güncelleyebilir. Bu ekran sade 
 ## 🛠️ Kullanılan Teknolojiler
 
 - **C#** & **WinForms**  
-- **Entity Framework (EF)** (ORM)  
+- **Entity Framework (EF)** — *Database First* yaklaşımıyla yapılandırılmıştır  
 - **LINQ** ile veri çekme ve analiz  
-- **Model yapısı** ile güçlü nesne yönelimi  
 - **SQL Server** veritabanı  
 
 ---
@@ -61,65 +60,62 @@ gibi bilgilerini **Ayarlar** ekranı üzerinden güncelleyebilir. Bu ekran sade 
 
 Bu proje geliştirilmeye açıktır. Görüş, öneri veya katkılarınız için iletişime geçebilirsiniz. 😊
 
----
-
 
 EN - English |
 
 # 💼 Financial Tracking Application (C# | WinForms | EF | SQL Server)
 
-This desktop application allows users to manually record their **invoices**, **expenses**, and **bank transactions** in a structured and categorized way. With the **graph-based dashboard form**, users can analyze their financial data visually and track their income and expenses easily over time.
+This desktop application allows users to manually record their **invoices**, **expenses**, and **bank transactions**, providing easy access to past financial data. With the **dashboard form powered by graphs**, users can analyze their financial status in real time.
 
 ---
 
 ## 🎯 Project Purpose
 
-- To manually register daily, weekly, or monthly **financial activities**
-- To categorize and store expenses and income in a regular, reliable format
-- To provide **quick access and visual analytics** of the saved data
-- To ensure **data privacy** with user-specific filtering (each user can only see their own data)
+- Record daily, weekly, or monthly **financial activities** manually  
+- Store income and expenses in a **categorized and organized** manner  
+- Provide fast access and **graphical analysis** of recorded data  
+- Ensure **data security** through user-based filtering and access  
 
 ---
 
 ## 🔧 User Settings Feature
 
-After logging into the system with their own credentials, users can update their personal information such as:
+After logging into the system with their username and password, each user can update the following information through the **Settings** form:
 
 - **Username**
 - **Password**
-- **Phone Number**
-- **Email Address**
+- **Phone number**
+- **Email address**
 
-These updates are done through a user-friendly **Settings Form**, designed with clarity and accessibility in mind. This feature enhances the long-term usability and security of the system.
+The settings form is designed to be simple and user-friendly. This allows users to keep their personal contact and account information up to date, increasing long-term usability and system security.
 
 ---
 
 ## 📊 Application Features
 
-- Manual record-keeping for expenses, invoices, and bank transactions
-- Data filtering and display **specific to the logged-in user**
-- **Dashboard Form** for visual analysis of financial data
-- Daily and monthly financial status tracking
-- Settings Form to **update personal information**
-- Clean and practical user interface
+- Financial records for invoices, expenses, and bank transactions  
+- **User-specific data access** and filtering  
+- Dashboard screen with **graph-based data analysis**  
+- Daily and monthly financial tracking  
+- Personal information management (via Settings Form)  
+- Clean and practical user interface  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **C#** & **WinForms** for UI development  
-- **Entity Framework (EF)** as the ORM  
-- **LINQ** for data querying and filtering  
-- **Model-based architecture** for code clarity  
-- **SQL Server** for robust database management  
+- **C#** & **WinForms**  
+- **Entity Framework (EF)** — structured using the *Database First* approach  
+- **LINQ** for querying, filtering, and data analysis  
+- **SQL Server** as the database solution  
 
 ---
 
 ## 👨‍💻 Target Audience
 
-- **Students and beginners** learning C#, EF, and LINQ  
-- **Individual users** wanting to track their personal finances  
-- **Small businesses** needing a basic accounting tool  
+- **Students** learning software development and wanting hands-on practice with EF & LINQ  
+- **Individuals** looking to manage their personal finances  
+- **Small businesses** in need of a simple internal accounting tool  
 
 ---
 
