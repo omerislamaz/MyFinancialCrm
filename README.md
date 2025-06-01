@@ -59,7 +59,7 @@ gibi bilgilerini **Ayarlar** ekranı üzerinden güncelleyebilir. Bu ekran sade 
 
 ## 📎 Notlar
 
-Bu proje geliştirilmeye açıktır. Katkıda bulunmak isteyenler için pull request'ler memnuniyetle karşılanır. Görüş, öneri veya katkılarınız için iletişime geçebilirsiniz. 😊
+Bu proje geliştirilmeye açıktır. Görüş, öneri veya katkılarınız için iletişime geçebilirsiniz. 😊
 
 ---
 
@@ -125,7 +125,7 @@ These updates are done through a user-friendly **Settings Form**, designed with 
 
 ## 📎 Notes
 
-This project is open to contributions and improvements. Feel free to fork the repository, submit pull requests, or get in touch with suggestions. 😊
+This project is open to contributions and improvements. Get in touch with suggestions. 😊
 
 
 
