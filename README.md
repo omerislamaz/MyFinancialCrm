@@ -144,45 +144,45 @@ This project is open to contributions and improvements. Feel free to fork the re
 
 ### 🖼 Category View
 <p align="center">
-  <img src="Images/Category.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="Category.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 Banks View
 <p align="center">
-  <img src="Images/Banks.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="Banks.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 Billing View
 <p align="center">
-  <img src="Images/Billing.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="Billing.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 Spendings View
 <p align="center">
-  <img src="Images/Spendings.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="Spendings.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 BankProcess View
 <p align="center">
-  <img src="Images/BankProcess.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="BankProcess.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 Settings View
 <p align="center">
-  <img src="Images/Settings.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="Settings.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 SQL_Tables View
 <p align="center">
-  <img src="Images/SQL_Tables.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="SQL_Tables.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 SQL_Diagrams View
 <p align="center">
-  <img src="Images/SQL_Diagrams.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="SQL_Diagrams.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
 
 ### 🖼 SQL_BankProcess View
 <p align="center">
-  <img src="Images/SQL_BankProcess.jpg" alt="Dashboard Screenshot" width="600"/>
+  <img src="SQL_BankProcess.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
