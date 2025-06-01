@@ -1,4 +1,4 @@
-TR|
+TR - Türkçe |
 
 # 💼 Finansal Takip Uygulaması (C# | WinForms | EF | SQL Server)
 
@@ -64,7 +64,7 @@ Bu proje geliştirilmeye açıktır. Katkıda bulunmak isteyenler için pull req
 ---
 
 
-EN |
+EN - English |
 
 # 💼 Financial Tracking Application (C# | WinForms | EF | SQL Server)
 
