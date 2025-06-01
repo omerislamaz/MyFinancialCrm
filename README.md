@@ -42,7 +42,7 @@ gibi bilgilerini **Ayarlar** ekranı üzerinden güncelleyebilir. Bu ekran sade 
 ## 🛠️ Kullanılan Teknolojiler
 
 - **C#** & **WinForms**  
-- **Entity Framework (EF)** — *Database First* yaklaşımıyla yapılandırılmıştır  
+- **Entity Framework (EF)** — *DbFirst* yaklaşımıyla yapılandırılmıştır  
 - **LINQ** ile veri çekme ve analiz  
 - **SQL Server** veritabanı  
 
@@ -105,7 +105,7 @@ The settings form is designed to be simple and user-friendly. This allows users 
 ## 🛠️ Technologies Used
 
 - **C#** & **WinForms**  
-- **Entity Framework (EF)** — structured using the *Database First* approach  
+- **Entity Framework (EF)** — structured using the *DbFirst* approach  
 - **LINQ** for querying, filtering, and data analysis  
 - **SQL Server** as the database solution  
 
