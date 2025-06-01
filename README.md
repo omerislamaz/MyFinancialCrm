@@ -131,6 +131,14 @@ This project is open to contributions and improvements. Feel free to fork the re
 
 ## Ekran Görüntüleri & Screenshots
 
+### 🖼 Login View
 <p align="center">
   <img src="Login.jpg" alt="Dashboard Screenshot" width="600"/>
 </p>
+
+
+### 🖼 Dashboard View
+<p align="center">
+  <img src="Dashboard.jpg" alt="Dashboard Screenshot" width="600"/>
+</p>
+
